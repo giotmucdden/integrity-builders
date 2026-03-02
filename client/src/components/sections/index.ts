@@ -1,0 +1,9 @@
+export { Navbar } from "./Navbar";
+export { Hero } from "./Hero";
+export { StatsStrip } from "./StatsStrip";
+export { PhotoGallery } from "./PhotoGallery";
+export { Services } from "./Services";
+export { About } from "./About";
+export { Booking } from "./Booking";
+export { Testimonials } from "./Testimonials";
+export { Footer } from "./Footer";
