@@ -1,12 +1,14 @@
 export const ASSETS = {
   logoColor:
-    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/logo-color_324bfba8.jpeg",
+    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/logo-v3-transparent_16a45e5e.png",
   logoBw:
-    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/logo-bw_0b2e8241.jpeg",
+    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/logo-v3-transparent_16a45e5e.png",
+  heroVideo:
+    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/hero-loop-seamless_2934e5a2.mp4",
   heroBg:
     "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/hero-bg-djW9LRJwHyhNZu9xXoDt7m.webp",
   aboutBg:
-    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/about-bg-BN8fuCYe8kuh4yKs3vhHRr.webp",
+    "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/about-bg-asian_85403e3c.png",
   photos: [
     {
       url: "https://d2xsxph8kpxj0f.cloudfront.net/310519663316746160/nEowjah59ptAuJnyRk4DM7/construction-aerial_887730cf.jpeg",

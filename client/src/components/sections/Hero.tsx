@@ -10,12 +10,20 @@ export function Hero() {
     <section
       id="hero"
       className="relative min-h-screen flex items-center justify-center overflow-hidden"
-      style={{
-        backgroundImage: `url(${ASSETS.heroBg})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-      }}
     >
+      {/* Video Background */}
+      <video
+        autoPlay
+        loop
+        muted
+        playsInline
+        className="absolute inset-0 w-full h-full object-cover"
+        poster={ASSETS.heroBg}
+      >
+        <source src={ASSETS.heroVideo} type="video/mp4" />
+      </video>
+
+      {/* Dark overlay */}
       <div
         className="absolute inset-0"
         style={{
